@@ -1,4 +1,4 @@
-## Bem-vindo(a) ao perfil da ## Bem-vindo(a) ao perfil Da LaurianeVsantos
+## Bem-vindo(a) ao perfil Da LaurianeVsantos
 
  <div>
    <a href="https://github.com/LaurianeVsatos">
